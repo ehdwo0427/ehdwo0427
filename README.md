@@ -14,19 +14,14 @@
 저는 활동적인 것을 좋아합니다. 사람들과 모여서 운동하는 것을 취미로 합니다. 팀으로 하는 것을 좋아하기 때문에 소통의 장점을 갖고 모든 문제에 대응할 수 있습니다. 좋은 멘토를 찾아 같이 성장해 나가면서 많은 경험을 쌓아 자신을 성장시킬 생각으로 하루하루 정진하겠습니다!!
 <br />
 <br />
+
+## Study Repository Wiki  [클릭](https://github.com/ehdwo0427/study_repository/wiki)
 <br />
+
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt="Python" src ="https://img.shields.io/badge/python-3776AB?&&logo=python&logoColor=black"/>
   <img alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00?&&logo=tensorflow&logoColor=yellow"/>
-  
 </div>
-#### I've used it before.
-
-</div>
-<br />
-<br />
-<br />
-
 Copyright ⓒ startupcode yaro
