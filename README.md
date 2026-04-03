@@ -120,6 +120,4 @@ Stable Diffusion XL과 SAM을 활용한 E2E 이미지 생성 파이프라인
 
 **항상 배우는 마음으로, 함께 성장하겠습니다! 🌱**
 
-Copyright ⓒ 2024 Dongjae Lee
-
 </div>
